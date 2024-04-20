@@ -1,1 +1,1 @@
-i am a computer engineer
+quality makes a kimpo
