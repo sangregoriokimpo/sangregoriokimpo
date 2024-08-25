@@ -15,6 +15,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangregoriokimpo&theme=github_dark" alt="Most Used Languages">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangregoriokimpo&theme=github_dark" alt="Most Commit Language">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangregoriokimpo&theme=github_dark" alt="Profile Details">
+  <a href="https://www.linkedin.com/in/gregory-jabido/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 
