@@ -8,6 +8,7 @@
 
 
 <p align="center">
+  https://www.linkedin.com/in/gregory-jabido/
   <img src="https://activity-graph.herokuapp.com/graph?username=sangregoriokimpo&theme=react-dark" alt="GitHub Activity Graph">
 </p>
 
