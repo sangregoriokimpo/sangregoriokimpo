@@ -6,9 +6,19 @@
 ![sangregoriokimpoGitHubWallpaper](https://github.com/sangregoriokimpo/sangregoriokimpo/assets/144968837/031850ed-f31b-4bcc-8851-ed3b1a1c840f)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangregoriokimpo&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangregoriokimpo&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangregoriokimpo&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sangregoriokimpo&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sangregoriokimpo&theme=react-dark" alt="GitHub Activity Graph">
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sangregoriokimpo&theme=github_dark" alt="Most Used Languages">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sangregoriokimpo&theme=github_dark" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sangregoriokimpo&theme=github_dark" alt="Profile Details">
+</p>
 
 
 
