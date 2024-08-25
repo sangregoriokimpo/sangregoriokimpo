@@ -8,7 +8,10 @@
 
 
 <p align="center">
-  https://www.linkedin.com/in/gregory-jabido/
+  <a href="https://linkedin.com/in/gregory-jabido" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=sangregoriokimpo&theme=react-dark" alt="GitHub Activity Graph">
 </p>
 
