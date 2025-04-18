@@ -7,8 +7,6 @@
 ![sangregoriokimpoGitHubWallpaper](https://github.com/sangregoriokimpo/sangregoriokimpo/assets/144968837/031850ed-f31b-4bcc-8851-ed3b1a1c840f)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.
-
 <p align="center">
   <a href="https://linkedin.com/in/gregory-jabido" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
