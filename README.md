@@ -7,6 +7,15 @@
 ![sangregoriokimpoGitHubWallpaper](https://github.com/sangregoriokimpo/sangregoriokimpo/assets/144968837/031850ed-f31b-4bcc-8851-ed3b1a1c840f)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<!-- Tech Stack (Badges) -->
+[![ROS](https://img.shields.io/badge/ROS-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+![XML](https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-555?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-555?style=for-the-badge)
 
 
 <p align="center">
