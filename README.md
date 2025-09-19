@@ -25,6 +25,8 @@
 ![XML](https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/Verilog-555?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-555?style=for-the-badge)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+
 
 </div>
 
