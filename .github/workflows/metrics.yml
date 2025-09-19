@@ -1,0 +1,25 @@
+name: Metrics (ISO calendar)
+
+on:
+  schedule:
+    # 3:00 AM Los Angeles (10:00 UTC) daily
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Render ISO calendar (full year)
+        uses: lowlighter/metrics@latest
+        with:
+          # For public data, GITHUB_TOKEN is usually enough.
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: sangregoriokimpo
+          base: ""                                # no base card, just the plugin
+          filename: assets/metrics.plugin.isocalendar.fullyear.svg
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year  # or "half-year"
