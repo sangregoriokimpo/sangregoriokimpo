@@ -18,11 +18,6 @@
 ![Assembly](https://img.shields.io/badge/Assembly-555?style=for-the-badge)
 
 <p align="center">
-  <img src="./assets/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar" />
-</p>
-
-
-<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=sangregoriokimpo&theme=react-dark" alt="GitHub Activity Graph">
 </p>
 
