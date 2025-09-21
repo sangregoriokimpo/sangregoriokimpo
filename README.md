@@ -14,6 +14,8 @@
 ![sangregoriokimpoGitHubWallpaper](https://github.com/sangregoriokimpo/sangregoriokimpo/assets/144968837/031850ed-f31b-4bcc-8851-ed3b1a1c840f)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+https://github.com/user-attachments/assets/6eb9aaba-f2ea-403b-91b5-0cbce7d9cdde
+
 <div align="center">
 
 <!-- Tech Stack (Badges) -->
