@@ -1,1 +1,1 @@
-<img width="1143" height="677" alt="kimpo-neofetch-hyprland-gradient-border-rounded" src="https://github.com/user-attachments/assets/3b14b01e-3ea1-4c38-8772-b359eecd926d" />
+<img width="1143" height="677" alt="kimpo-neofetch-hyprland-wavebg" src="https://github.com/user-attachments/assets/0affb11b-2e22-4858-a03c-6b7e2990fa91" />
