@@ -1,1 +1,1 @@
-<img width="1143" height="677" alt="kimpo-neofetch-custom-ascii-black-white" src="https://github.com/user-attachments/assets/8588fae4-d64e-4f8a-8fbc-c01acad3bb60" />
+<img width="1143" height="677" alt="kimpo-neofetch-hyprland" src="https://github.com/user-attachments/assets/5463d1df-6f96-43b9-94d3-1a7241f3506b" />
