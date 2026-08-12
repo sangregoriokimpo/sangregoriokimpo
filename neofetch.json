@@ -1,46 +1,47 @@
 {
-  "image": "https://jundroo.blob.core.windows.net/simpleplanes/GameData/aircraft/175/FNFXIY-TopView.jpg",
+  "image": "https://drive.google.com/uc?export=view&id=1IFzpo3PVWJ662UWjBx_QLQnrHpqLr8Fe",
   "sections": [
     {
       "title": "{{username}}@github",
       "fields": [
-        { "key": "Name", "value": "Gregory Jabido" },
-        { "key": "Location", "value": "Pasadena, CA" },
-        { "key": "Created", "value": "{{created}}" },
-        { "key": "Uptime", "value": "{{uptime}}" },
-        { "key": "Company", "value": "NASA Jet Propulsion Laboratory" }
+        { "key": "Name", "value": "Gregory Jabido", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "Location", "value": "Pasadena, CA", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "Created", "value": "{{created}}", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "Company", "value": "NASA Jet Propulsion Laboratory", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" }
       ]
     },
     {
       "fields": [
-        { "key": "Languages", "value": "C/C++, Python, Rust, Verilog" },
-        { "key": "IDE", "value": "VScode, JetBrains, Vivado, Vitis" },
-        { "key": "Stack", "value": "ROS2, Gazebo, Isaac Sim, GN&C, Physical AI" }
+        { "key": "Languages", "value": "C/C++, Python, Rust, Verilog", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "IDE", "value": "VScode, JetBrains, Vivado, Vitis", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "Stack", "value": "ROS2, Gazebo, Isaac Sim, GN&C, Physical AI", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "GN&C, CV, RL, XR, AOSP" },
-        { "key": "Hobbies.Hardware", "value": "Robotics, Astronautics" }
+        { "key": "Hobbies.Software", "value": "GN&C, CV, RL, XR, AOSP", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "Hobbies.Hardware", "value": "Robotics, Astronautics", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "gregoryjabido@outlook.com" },
-        { "key": "Website", "value": "sangregoriokimpo.com" },
-        { "key": "LinkedIn", "value": "linkedin.com/in/gregory-jabido" },
-        { "key": "GrabCAD", "value": "grabcad.com/sangregoriokimpo-1" }
+        { "key": "Email", "value": "gregoryjabido@outlook.com", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "Website", "value": "sangregoriokimpo.com", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "LinkedIn", "value": "linkedin.com/in/gregory-jabido", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "GrabCAD", "value": "grabcad.com/sangregoriokimpo-1", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" }
       ]
     }
   ],
   "stats": {
     "title": "- GitHub Stats",
     "rows": [
-      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
-      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
-      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
-      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } }
+      { "left": { "key": "Repos", "value": "{{repos}}", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" }, "right": { "key": "Stars", "value": "{{stars}}", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" } },
+      { "left": { "key": "Following", "value": "{{following}}", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" }, "right": { "key": "Followers", "value": "{{followers}}", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" } },
+      { "left": { "key": "Commits", "value": "{{commits}}", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" }, "right": { "key": "Forks", "value": "{{forks}}", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" } },
+      { "left": { "key": "Issues", "value": "{{issues}}", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" }, "right": { "key": "PRs", "value": "{{prs}}", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" } },
+      "loc"
     ]
   }
 }
