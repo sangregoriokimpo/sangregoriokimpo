@@ -2,7 +2,7 @@
   "sections": [
     {
       "title": "{{username}}@github",
-      "image": "https://github.com/sangregoriokimpo.png?size=500", 
+      "image": "https://github.com/sangregoriokimpo.png?size=1000", 
       "fields": [
         { "key": "Name", "value": "Gregory Jabido" },
         { "key": "Location", "value": "Pasadena, CA" },
