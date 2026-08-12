@@ -1,8 +1,8 @@
 {
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flower_Hong_Kong.svg/3840px-Flower_Hong_Kong.svg.png",
   "sections": [
     {
       "title": "{{username}}@github",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flower_Hong_Kong.svg/3840px-Flower_Hong_Kong.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail", 
       "fields": [
         { "key": "Name", "value": "Gregory Jabido" },
         { "key": "Location", "value": "Pasadena, CA" },
