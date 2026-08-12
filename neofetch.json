@@ -22,7 +22,7 @@
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "GN&C, CV, RL, XR, AOSP", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
+        { "key": "Hobbies.Software", "value": "GN&C, CV, RL, XR, AOSP, Linux", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" },
         { "key": "Hobbies.Hardware", "value": "Robotics, Astronautics", "keyColor": "#b45309, #e0a458", "valueColor": "#1f2328, #e6edf3" }
       ]
     },
