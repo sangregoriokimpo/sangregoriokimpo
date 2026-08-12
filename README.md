@@ -1,1 +1,1 @@
-![Neofetch Profile](https://neofetch-profile.vercel.app/api?username=sangregoriokimpo&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fsangregoriokimpo%2Fsangregoriokimpo%2Fmain%2Fneofetch.json)
+![Neofetch Profile](https://neofetch-profile.vercel.app/api?username=sangregoriokimpo&theme=github-dark&config=https%3A%2F%2Fraw.githubusercontent.com%2Fsangregoriokimpo%2Fsangregoriokimpo%2Fmain%2Fneofetch.json&v=2)
