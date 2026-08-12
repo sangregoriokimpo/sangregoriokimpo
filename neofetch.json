@@ -1,0 +1,45 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "Gregory Jabido" },
+        { "key": "Location", "value": "Pasadena, CA" },
+        { "key": "Created", "value": "{{created}}" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Company", "value": "NASA Jet Propulsion Laboratory" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages", "value": "C/C++, Python, XML, Verilog, JS/TS, CSS, Kotlin" },
+        { "key": "IDE", "value": "VScode, JetBrains, Vivado, Vitis" },
+        { "key": "Stack", "value": "ROS2, Gazebo, Isaac Sim, GN&C, Physical AI" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "XR, App Development, Giant Robots, Rockets" },
+        { "key": "Hobbies.Hardware", "value": "Robotics, Astronautics" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "gregoryjabido@outlook.com" },
+        { "key": "Website", "value": "sangregoriokimpo.com" },
+        { "key": "LinkedIn", "value": "linkedin.com/in/gregory-jabido" },
+        { "key": "GrabCAD", "value": "{{https://grabcad.com/sangregoriokimpo-1}}" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Following", "value": "{{following}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Forks", "value": "{{forks}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } }
+    ]
+  }
+}
