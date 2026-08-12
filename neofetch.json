@@ -2,6 +2,7 @@
   "sections": [
     {
       "title": "{{username}}@github",
+      "image": "https://github.com/sangregoriokimpo.png?size=500", 
       "fields": [
         { "key": "Name", "value": "Gregory Jabido" },
         { "key": "Location", "value": "Pasadena, CA" },
@@ -12,14 +13,14 @@
     },
     {
       "fields": [
-        { "key": "Languages", "value": "C/C++, Python, XML, Verilog, JS/TS, CSS, Kotlin" },
+        { "key": "Languages", "value": "C/C++, Python, Rust, Verilog" },
         { "key": "IDE", "value": "VScode, JetBrains, Vivado, Vitis" },
         { "key": "Stack", "value": "ROS2, Gazebo, Isaac Sim, GN&C, Physical AI" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "XR, App Development, Giant Robots, Rockets" },
+        { "key": "Hobbies.Software", "value": "GN&C, CV, RL, XR, AOSP" },
         { "key": "Hobbies.Hardware", "value": "Robotics, Astronautics" }
       ]
     },
