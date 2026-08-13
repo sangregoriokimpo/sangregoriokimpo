@@ -10,7 +10,7 @@
         { "key": "Location", "value": "Pasadena, CA", "keyColor": "#3d4f66, #8ea3bd", "valueColor": "#1f2328, #e6e8eb" },
         { "key": "Created", "value": "{{created}}", "keyColor": "#3d4f66, #8ea3bd", "valueColor": "#1f2328, #e6e8eb" },
         { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#3d4f66, #8ea3bd", "valueColor": "#1f2328, #e6e8eb" },
-        { "key": "Company", "value": "NASA Jet Propulsion Laboratory", "keyColor": "#3d4f66, #8ea3bd", "valueColor": "#1f2328, #e6e8eb" }
+        { "key": "Company", "value": "NASA Jet Propulsion Laboratory, SLI", "keyColor": "#3d4f66, #8ea3bd", "valueColor": "#1f2328, #e6e8eb" }
       ]
     },
     {
