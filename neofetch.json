@@ -1,5 +1,5 @@
 {
-  "image": "https://drive.google.com/uc?export=view&id=1hSsOZ9sJwUqcd0YqG3B7oSfS6xMqZWJ7",
+  "image": "https://drive.google.com/uc?export=view&id=1JGwi60zGf0yJXSZ9g0dQ0Rh4vzr6V9He",
   "coloredImage": true,
   "imageScale": 1,
   "sections": [
@@ -10,7 +10,7 @@
         { "key": "Location", "value": "Pasadena, CA", "keyColor": "#3d4f66, #8ea3bd", "valueColor": "#1f2328, #e6e8eb" },
         { "key": "Created", "value": "{{created}}", "keyColor": "#3d4f66, #8ea3bd", "valueColor": "#1f2328, #e6e8eb" },
         { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#3d4f66, #8ea3bd", "valueColor": "#1f2328, #e6e8eb" },
-        { "key": "Company", "value": "NASA Jet Propulsion Laboratory", "keyColor": "#3d4f66, #8ea3bd", "valueColor": "#1f2328, #e6e8eb" }
+        { "key": "Company", "value": "NASA Jet Propulsion Laboratory, SLI", "keyColor": "#3d4f66, #8ea3bd", "valueColor": "#1f2328, #e6e8eb" }
       ]
     },
     {
